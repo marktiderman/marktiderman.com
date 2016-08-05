@@ -1,0 +1,26 @@
+---
+author: mark
+comments: true
+date: 2012-02-21 01:58:14+00:00
+layout: post
+link: http://marktiderman.com/life/
+slug: life
+title: Joy=Pain
+wordpress_id: 59
+categories:
+- Poetry
+---
+
+**Life=Pain**
+The ache of goodbye.
+Brokenness.
+Friends who let you down.
+A sick baby with little chance of survival.
+
+**Life=Joy**
+A sunflower field in full bloom.
+Laughter.
+Friends you can depend on.
+A healthy baby with her whole life ahead of her.
+
+**Joy=Pain**
