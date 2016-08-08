@@ -5,7 +5,7 @@ date: 2010-01-24 20:33:00+00:00
 layout: post
 link: http://marktiderman.com/servetelllove/
 slug: servetelllove
-title: Serveâ€¦Tellâ€¦Love
+title: Serve | Tell | Love
 wordpress_id: 40
 categories:
 - Thoughts

@@ -5,7 +5,7 @@ date: 2010-01-08 19:42:40+00:00
 layout: post
 link: http://marktiderman.com/god-is-here-little-light/
 slug: god-is-here-little-light
-title: "God is here â€œLittle Lightâ€\x9D"
+title: "God is here Little Light"
 wordpress_id: 26
 categories:
 - Thoughts
