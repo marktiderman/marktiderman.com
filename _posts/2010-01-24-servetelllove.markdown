@@ -13,17 +13,16 @@ categories:
 
 I wanted to share a quick simple message from John Piper on how serving, and telling are both needed as we love our neighbors with the Gospel of Jesus Christ.
 
- 
 
 <blockquote>  
-> 
+>
 > Tell people the good news of Christ from a heart of love and a life of service"   
 **- John Piper**
-> 
+>
 > </blockquote>
 
- 
 
-  
+
+
 
 [youtube=http://www.youtube.com/watch?v=h91I30kjks0&hl=en_US&fs=1&]

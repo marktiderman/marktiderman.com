@@ -11,7 +11,7 @@ categories:
 - Thoughts
 ---
 
-I was driving in the car today when a question arrived from theÂ carseatÂ in the back.
+I was driving in the car today when a question arrived from the carseat in the back.
 
 **Marcos**: "Daddy, are you driving?"
 **Me**: "Yeah buddy I'm driving."

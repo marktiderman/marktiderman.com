@@ -5,7 +5,7 @@ date: 2013-06-12 04:47:43+00:00
 layout: post
 link: http://marktiderman.com/heres-my-heart-lord-speak-what-is-true/
 slug: heres-my-heart-lord-speak-what-is-true
-title: Hereâ€™s My Heart Lord, Speak What Is true.
+title: Here's My Heart Lord, Speak What Is true.
 wordpress_id: 152
 categories:
 - Thoughts
@@ -23,4 +23,4 @@ This song sums up our hearts as we lean in to God more. Trusting in his goodness
 
 It has been echoing in our home, cars and hearts the past month.
 
-My favorite line is â€œHereâ€™s my heart Lord, speak what is trueâ€
+My favorite line is â€œHere's my heart Lord, speak what is true.

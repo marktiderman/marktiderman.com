@@ -15,10 +15,6 @@ These are my driving assumptions for why I believe it is vital for us to "create
 
 
 
-
-
-
-
 I believe that:
 
 

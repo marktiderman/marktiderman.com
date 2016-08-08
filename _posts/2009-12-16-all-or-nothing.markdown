@@ -17,9 +17,6 @@ For instance; I started this blog months ago, but this is my first real post. Wh
 
 Take poverty for instance. I think the reason most of us do nothing is because we are so overwhelmed by the huge need in the world. Here is a typical chain of events that takes place in my mind every couple days.
 
-
-
-
   1. I see a need
   2. I get excited and I start thinking how I help
   3. **I'm not content with helping just one, I try to help everyone**
@@ -29,9 +26,6 @@ Take poverty for instance. I think the reason most of us do nothing is because w
 
 
 So after years of being disabled by this discouraging cycle, I've decided to do a little soul searching. If my intentions are to make a difference, but I usually end up doing nothing, where does my plan break down? _(pause for dramatic effect) _I'm learning that the problem is in my "all or nothing" mentality. Its when I lose site of "the one" that I get overwhelmed and end up doing nothing. What if I decided to not look at the masses but only focus in on "the one" whom God has placed in front of me. Lets try this again.
-
-
-
 
   1. I see a need
   2. I get excited and I start thinking how I help
